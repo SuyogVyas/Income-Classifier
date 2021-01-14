@@ -14,9 +14,13 @@ The Objective is to:
 There are some general library requirements for the project. The general requirements are as follows.
 
 numpy
+
 scikit-learn
+
 pandas
+
 matplotlib
+
 seaborn
 
 Note: It is recommended to use Anaconda distribution of Python.
