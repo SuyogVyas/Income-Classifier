@@ -8,4 +8,16 @@
 
 The Objective is to:
           Simplify the data system by reducing the number of variables to be studied, without sacrificing too much of accuracy. Such a system would help Subsidy Inc. In planning subsidy outlay,monitoring and preventing misuse
+          
+          
+# Requirements
+There are some general library requirements for the project. The general requirements are as follows.
+
+numpy
+scikit-learn
+pandas
+matplotlib
+seaborn
+
+Note: It is recommended to use Anaconda distribution of Python.
 
